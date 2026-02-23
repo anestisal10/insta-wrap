@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# User Data (Do not commit Instagram archives!)
+mock_instagram_data/
+*.zip
+*.json
+data/
