@@ -16,3 +16,8 @@ mock_instagram_data/
 *.zip
 *.json
 data/
+
+# PyInstaller
+build/
+dist/
+*.spec
